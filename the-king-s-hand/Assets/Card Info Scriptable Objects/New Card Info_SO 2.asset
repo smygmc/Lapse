@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0541dfa369214042b0c2466724fd157, type: 3}
+  m_Name: New Card Info_SO 2
+  m_EditorClassIdentifier: 
+  info_text: 'BENIM KOCAM KRAL ULAN '
+  character: Queen Mirabel
+  left_option_text: "d\xFCnya kadar mal\u0131n..."
+  right_option_text: eyv
+  days_passed: 10
+  left_military: -10
+  left_justice: 0
+  left_people: 20
+  left_wealth: 0
+  right_military: 0
+  right_justice: 0
+  right_people: -10
+  right_wealth: 0
